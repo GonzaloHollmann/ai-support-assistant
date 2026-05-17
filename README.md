@@ -57,4 +57,4 @@ El sistema guarda automáticamente en `metrics/metrics.json`:
 
 ## 📄 Reporte Técnico
 
-El reporte técnico que justifica las decisiones de ingeniería del proyecto se encuentra disponible en [`reports/PI_report_en.md`](reports/PI_report_en.md).
+El reporte técnico que justifica las decisiones de ingeniería del proyecto se encuentra disponible en [`reports/PI_report_es.md`](reports/PI_report_es.md).
