@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+ENV/
+.venv/
+
+# Sensible
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Datos y métricas
+metrics/metrics.json
+
+# IDEs
+.vscode/
+.idea/
+.antigravity/
+node_modules/
