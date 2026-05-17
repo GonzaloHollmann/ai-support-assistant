@@ -12,7 +12,7 @@ Este proyecto es un asistente inteligente diseñado para ayudar a agentes de sop
 
 1. Clonar el repositorio:
    ```bash
-   git clone <tu-url-de-github>
+   git clone <https://github.com/GonzaloHollmann/ai-support-assistant.git>
    cd ai-support-assistant
    ```
 
